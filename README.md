@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Charla](https://app.charla.cc/)
 
-- 🌱 I’m currently learning **React.js, Next.js, and Vue.js**
+- 🌱 I’m currently learning **Next.js, Vue.js & Tailwind**
 
-- 💬 Ask me about **HTML, CSS & JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript & React.js**
 
 - 📫 How to reach me **pamjung@gmail.com**
 
