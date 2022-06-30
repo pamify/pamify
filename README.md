@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Charla](https://app.charla.cc/)
 
-- 🌱 I’m currently learning **React.js, Next.js, TypeScript, & GraphQL**
+- 🌱 I’m currently learning **React.js, Next.js, and Vue.js**
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
 - 📫 How to reach me **pamjung@gmail.com**
 
-- ⚡ Fun fact **I'm a Tetris 99 Champion**
+- ⚡ Fun fact **I'm a Tetris 99 Invictus Champion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
