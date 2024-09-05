@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pamela Jung</h1>
-<h3 align="center">A passionate full stack developer from Ohio</h3>
+<h3 align="center">A Software Engineer from Ohio</h3>
 
-- 🔭 I’m currently working on [Charla](https://app.charla.cc/)
+- 💬 Ask me about: **HTML, CSS, JavaScript**
 
-- 🌱 I’m currently learning **Next.js, Vue.js & Tailwind**
+- 📫 How to reach me: **pamjung@gmail.com**
 
-- 💬 Ask me about **HTML, CSS, JavaScript & React.js**
-
-- 📫 How to reach me **pamjung@gmail.com**
-
-- ⚡ Fun fact **I'm a Tetris 99 Invictus Champion**
+- ⚡ Fun fact: **Did you know that the first computer bug was actually a real bug? In 1947, engineers working on the Harvard Mark II computer found a moth causing issues in the machine. They logged the incident as "first actual case of bug being found," and now the term "debugging" is used to describe fixing software issues.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pamjung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pamjung" height="30" width="40" /></a>
-<a href="https://instagram.com/pamjung8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pamjung8" height="30" width="40" /></a>
-<a href="https://twitter.com/pam-jung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pam_jung" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
