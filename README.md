@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pamela Jung</h1>
-<h3 align="center">A Software Engineer from Ohio</h3>
+<h3 align="center">A Front End Engineer from Ohio</h3>
 
 - 💬 Ask me about: **HTML, CSS, JavaScript**
 
 - 📫 How to reach me: **pamjung@gmail.com**
-
-- ⚡ Fun fact: **Did you know that the first computer bug was actually a real bug? In 1947, engineers working on the Harvard Mark II computer found a moth causing issues in the machine. They logged the incident as "first actual case of bug being found," and now the term "debugging" is used to describe fixing software issues.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
