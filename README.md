@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pamela Jung</h1>
-<h3 align="center">A Front End Engineer from Ohio</h3>
+<h3 align="center">A Front End Engineer from New Jersey</h3>
 
 - 💬 Ask me about: **HTML, CSS, JavaScript**
 
